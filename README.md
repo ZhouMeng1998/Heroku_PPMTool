@@ -10,23 +10,22 @@ It provides a 'Personal Project Management Tool', which allows the user to add a
 
 This APP is deployed on heroku. You can access it on  [Personal Project Management Tool](https://personalprojectmanagementtools.herokuapp.com/)
 
-Default Username and Password:
+**Default Username and Password:**
 
-```
-username:cloud@cloud.com	
-password:123456
+- `username:cloud@cloud.com`	
+- `password:123456`
 
-You can also register your USER via register page,choose:
-    -fullName
-    -email(UserName)
-    -password
-    -confirmPassword
-Then Login with that USER.
+> `You can also register your USER via register page,choose:
+>     -fullName
+>     -email(UserName)
+>     -password
+>     -confirmPassword
+> Then Login with that USER.
+>
+> then create your Project or Project List,
+> add Project Tasks.
+> then manageing your Projects progress will become way Easier. 
 
-then create your Project or Project List,
-add Project Tasks.
-then manageing your Projects progress will become way Easier. 
-```
 
 ## Technology Stack
 
