@@ -1,30 +1,24 @@
 # Full Stack Personal Project Management Tool: Spring Boot 2.0, ReactJS, Redux
 
-This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
-
-It provides a 'Personal Project Management Tool', which allows the user to add a project list, add comments regarding each project, and assign project tasks to each project - setting priority and status of those project tasks. each user can only access his own projects.
-
-![请选择超清](https://raw.githubusercontent.com/ZhouMeng1998/IMG/main/Snipaste_2022-08-08_17-16-45.jpg)
-
 ## Getting started
 
-This APP is deployed on heroku. You can access it on  [Personal Project Management Tool](https://personalprojectmanagementtools.herokuapp.com/)
+This APP is deployed on heroku. You can access it on  **[Personal Project Management Tool](https://personalprojectmanagementtools.herokuapp.com/)**
+
+![请选择超清](https://raw.githubusercontent.com/ZhouMeng1998/IMG/main/Snipaste_2022-08-08_17-16-45.jpg)
 
 **Default Username and Password:**
 
 - `username:cloud@cloud.com`	
 - `password:123456`
 
-> `You can also register your USER via register page,choose:
->     -fullName
->     -email(UserName)
->     -password
->     -confirmPassword
-> Then Login with that USER.
->
-> then create your Project or Project List,
-> add Project Tasks.
-> then manageing your Projects progress will become way Easier. 
+> `You can also register your own account via register page:
+>  -fullname
+>  -email(username)
+>  -password
+>  -confirmpassword
+> Then login with the username and password.
+
+It provides a 'Personal Project Management Tool', which allows the user to add a project list, add comments regarding each project, assign project tasks to each project, and set priority and status of those project tasks. Each user can only access his own projects.
 
 
 ## Technology Stack
@@ -117,4 +111,4 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 ## Contributing
 
-Meng Zhou
+Chris
