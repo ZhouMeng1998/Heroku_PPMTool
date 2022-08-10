@@ -11,12 +11,7 @@ This APP is deployed on heroku. You can access it on  **[Personal Project Manage
 - `username:cloud@cloud.com`	
 - `password:123456`
 
-> `You can also register your own account via register page:
->  -fullname
->  -email(username)
->  -password
->  -confirmpassword
-> Then login with the username and password.
+You can also create your own account via register page:
 
 It provides a 'Personal Project Management Tool', which allows the user to add a project list, add comments regarding each project, assign project tasks to each project, and set priority and status of those project tasks. Each user can only access his own projects.
 
