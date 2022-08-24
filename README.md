@@ -24,11 +24,13 @@ The project is based on **front-end and back-end separation** Architecture.
 
 ### Technologies:
 
-- Build **RESTful APIs** with **Spring boot** for CRUD operations
-- Persist data with **Hibernate** and **Spring Data**
-- Create front end using **ReactJS** and **Boostrap**
-- Use **Redux** and **Thunk** to manage the state of our application in the front-end
-- Secure the application using **Spring Security**
+- Created an application with the architecture of **front-end and back-end separation**.
+
+- Developed extensive REST API using **JAVA Spring** and **Hibernate ORM**. 
+
+- Created a Single Page Application frontend using **React**, **Redux** and **Thunk**.
+
+- Secure the application using **Spring Security** and JSON Web Token.
 
 ## Folder Structure
 
