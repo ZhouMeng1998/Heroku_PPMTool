@@ -24,8 +24,6 @@ The project is based on **front-end and back-end separation** Architecture.
 
 ### Technologies:
 
-- Created an application with the architecture of **front-end and back-end separation**.
-
 - Developed extensive REST API using **JAVA Spring** and **Hibernate ORM**. 
 
 - Created a Single Page Application frontend using **React**, **Redux** and **Thunk**.
