@@ -2,7 +2,7 @@
 
 ## Getting started
 
-This APP is deployed on heroku. You can access it on  **[Personal Project Management Tool](https://personalprojectmanagementtools.herokuapp.com/)**
+This APP is deployed on heroku. You can access it on  **[Personal Project Management Tool](https://personalprojectmanagementtools.herokuapp.com/)**（It might take a while to load the page.）
 
 ![请选择超清](https://raw.githubusercontent.com/ZhouMeng1998/IMG/main/Snipaste_2022-08-08_17-16-45.jpg)
 
